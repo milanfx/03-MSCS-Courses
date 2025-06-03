@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 03 - MSDS Courses
+title: 04 - MSCS Courses
 permalink: /
 ---
 
@@ -9,124 +9,107 @@ permalink: /
 xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx
 
 <div>
-  <span class="btn spec1"><span class="btn spec2">Specialization 01 - Data Algorithms</span>
+  <span class="btn spec1"><span class="btn spec2">Specialization 01 - Network Systems</span>
   <br>
-  <a href="/03-MSDS-Courses/DS01/" class="btn cour1">Searching<br>& Sorting</a>
-  <a href="/03-MSDS-Courses/DS02/" class="btn cour2">Trees<br>& Graphs</a>
-  <a href="/03-MSDS-Courses/DS03/" class="btn cour3">Dynamic<br>Programming</a>
+  <a href="/04-MSCS-Courses/CS01/" class="btn cour1">Network<br>Foundations</a>
+  <a href="/04-MSCS-Courses/CS02/" class="btn cour2">Linux<br>Networking</a>
+  <a href="/04-MSCS-Courses/CS03/" class="btn cour3">Cloud<br>Networking</a>
   </span>
-  <span class="btn spec1"><span class="btn spec2">Specialization 02 - Advanced Algorithms</span>
+  <span class="btn spec1"><span class="btn spec2">Specialization 02 - Autonomous Systems</span>
   <br>
-  <a href="/03-MSDS-Courses/DS04/" class="btn cour1">Linear<br>Programming</a>
-  <a href="/03-MSDS-Courses/DS05/" class="btn cour2">Quantum<br>Algorithms</a>
-  </span>
-</div>
-
-<div>
-  <span class="btn spec1"><span class="btn spec2">Specialization 03 - Stats Inference</span>
-  <br>
-  <a href="/03-MSDS-Courses/DS06/" class="btn cour1">Probability<br>Theory</a>
-  <a href="/03-MSDS-Courses/DS07/" class="btn cour2">Parametric<br>Estimation</a>
-  <a href="/03-MSDS-Courses/DS08/" class="btn cour3">Hypothesis<br>Testing</a>
-  </span>
-  <span class="btn spec1"><span class="btn spec2">Specialization 04 - Stats Modeling</span>
-  <br>
-  <a href="/03-MSDS-Courses/DS09/" class="btn cour1">Linear<br>Regression</a>
-  <a href="/03-MSDS-Courses/DS10/" class="btn cour2">ANOVA<br>& Experiment</a>
-  <a href="/03-MSDS-Courses/DS11/" class="btn cour3">Nonlinear<br>Regression</a>
+  <a href="/04-MSCS-Courses/CS04/" class="btn cour1">Autonomous<br>Modeling</a>
+  <a href="/04-MSCS-Courses/CS05/" class="btn cour2">Autonomous<br>Requirement</a>
+  <a href="/04-MSCS-Courses/CS06/" class="btn cour2">Autonomous<br>Verification</a>
   </span>
 </div>
 
 <div>
-  <span class="btn spec1"><span class="btn spec2">Specialization 05 - Data Mining</span>
+  <span class="btn spec1"><span class="btn spec2">Specialization 03 - Computing Ethics</span>
   <br>
-  <a href="/03-MSDS-Courses/DS12/" class="btn cour1">DataMining<br>Pipeline</a>
-  <a href="/03-MSDS-Courses/DS13/" class="btn cour2">DataMining<br>Method</a>
-  <a href="/03-MSDS-Courses/DS14/" class="btn cour3">DataMining<br>Projects</a>
+  <a href="/04-MSCS-Courses/CS07/" class="btn cour1">Computing<br>Ethics</a>
+  <a href="/04-MSCS-Courses/CS08/" class="btn cour2">Professional<br>Ethics</a>
+  <a href="/04-MSCS-Courses/CS09/" class="btn cour3">Applications<br>Ethics</a>
   </span>
-  <span class="btn spec1"><span class="btn spec2">Specialization 06 - Machine Learning</span>
+  <span class="btn spec1"><span class="btn spec2">Specialization 04 - Internet Policy</span>
   <br>
-  <a href="/03-MSDS-Courses/DS15/" class="btn cour1">Supervised<br>Learning</a>
-  <a href="/03-MSDS-Courses/DS16/" class="btn cour2">Unsupervised<br>Learning</a>
-  <a href="/03-MSDS-Courses/DS17/" class="btn cour3">Deep<br>Learning</a>
-  </span>
-</div>
-
-<div>
-  <span class="btn spec1"><span class="btn spec2">Specialization 07 - Database Query</span>
-  <br>
-  <a href="/03-MSDS-Courses/DS18/" class="btn cour1">Relational<br>Database</a>
-  <a href="/03-MSDS-Courses/DS19/" class="btn cour2">SQL<br>Language</a>
-  <a href="/03-MSDS-Courses/DS20/" class="btn cour3">Advanced<br>Database</a>
-  </span>
-  <span class="btn spec1"><span class="btn spec2">Specialization 08 - DS Vital Skills</span>
-  <br>
-  <a href="/03-MSDS-Courses/DS21/" class="btn icon1">DataScience<br>Field</a>
-  <a href="/03-MSDS-Courses/DS22/" class="btn icon2">Cyber<br>Security</a>
-  <a href="/03-MSDS-Courses/DS23/" class="btn icon3">Ethical<br>Issues</a>
-  <a href="/03-MSDS-Courses/DS24/" class="btn icon4">Data<br>Visualization</a>
+  <a href="/04-MSCS-Courses/CS10/" class="btn cour1">Internet<br>Regulation</a>
+  <a href="/04-MSCS-Courses/CS11/" class="btn cour2">Internet<br>Privacy</a>
+  <a href="/04-MSCS-Courses/CS12/" class="btn cour3">Internet<br>Security</a>
   </span>
 </div>
 
 <div>
-  <span class="btn spec1"><span class="btn spec2">Specialization 09 - Software Apps</span>
+  <span class="btn spec1"><span class="btn spec2">Specialization 05 - Natural Language</span>
   <br>
-  <a href="/03-MSDS-Courses/DS25/" class="btn cour1">Software<br>Fundamentals</a>
-  <a href="/03-MSDS-Courses/DS26/" class="btn cour2">Software<br>Patterns</a>
-  <a href="/03-MSDS-Courses/DS27/" class="btn cour3">Software<br>Applications</a>
+  <a href="/04-MSCS-Courses/CS13/" class="btn cour1">NLP<br>Fundamentals</a>
+  <a href="/04-MSCS-Courses/CS14/" class="btn cour2">NLP<br>DeepLearning</a>
+  <a href="/04-MSCS-Courses/CS15/" class="btn cour3">NLP<br>ErrorAnalysis</a>
   </span>
-  <span class="btn spec1"><span class="btn spec2">Specialization 10 - Quality Control</span>
+  <span class="btn spec1"><span class="btn spec2">Specialization 06 - Computer Vision</span>
   <br>
-  <a href="/03-MSDS-Courses/DS28/" class="btn cour1">Quality<br>Statistics</a>
-  <a href="/03-MSDS-Courses/DS29/" class="btn cour2">Stability<br>& Capability</a>
-  <a href="/03-MSDS-Courses/DS30/" class="btn cour3">Measurement<br>System</a>
-  </span>
-</div>
-
-<div>
-  <span class="btn spec1"><span class="btn spec2">Specialization 11 - Stats Learning</span>
-  <br>
-  <a href="/03-MSDS-Courses/DS31/" class="btn cour1">Model<br>Fundamentals</a>
-  <a href="/03-MSDS-Courses/DS32/" class="btn cour2">Model<br>Optimization</a>
-  <a href="/03-MSDS-Courses/DS33/" class="btn cour3">Model<br>Advanced</a>
-  </span>
-  <span class="btn spec1"><span class="btn spec2">Specialization 12 - Climate Modeling</span>
-  <br>
-  <a href="/03-MSDS-Courses/DS34/" class="btn cour1">Climate<br>Policies</a>
-  <a href="/03-MSDS-Courses/DS35/" class="btn cour2">Climate<br>Visualization</a>
-  <a href="/03-MSDS-Courses/DS36/" class="btn cour3">Climate<br>Prediction</a>
+  <a href="/04-MSCS-Courses/CS16/" class="btn cour1">CV<br>Fundamentals</a>
+  <a href="/04-MSCS-Courses/CS17/" class="btn cour2">CV<br>DeepLearning</a>
+  <a href="/04-MSCS-Courses/CS18/" class="btn cour3">CV<br>GenerativeAI</a>
   </span>
 </div>
 
 <div>
-  <span class="btn spec1"><span class="btn spec2">Specialization 13 - Text Marketing</span>
+  <span class="btn spec1"><span class="btn spec2">Specialization 07 - Generative AI</span>
   <br>
-  <a href="/03-MSDS-Courses/DS37/" class="btn cour1">Supervised<br>Analysis</a>
-  <a href="/03-MSDS-Courses/DS38/" class="btn cour2">Unsupervised<br>Analysis</a>
-  <a href="/03-MSDS-Courses/DS39/" class="btn cour3">Network<br>Analysis</a>
+  <a href="/04-MSCS-Courses/CS19/" class="btn cour1">GenAI<br>Fundamentals</a>
+  <a href="/04-MSCS-Courses/CS20/" class="btn cour2">GenAI<br>Applications</a>
+  <a href="/04-MSCS-Courses/CS21/" class="btn cour3">GenAI<br>Advanced</a>
   </span>
-  <span class="btn spec1"><span class="btn spec2">Specialization 14 - Communication</span>
+  <span class="btn spec1"><span class="btn spec2">Specialization 08 - Object Oriented</span>
   <br>
-  <a href="/03-MSDS-Courses/DS40/" class="btn icon1">Business<br>Writing</a>
-  <a href="/03-MSDS-Courses/DS41/" class="btn icon2">Graphic<br>Design</a>
-  <a href="/03-MSDS-Courses/DS42/" class="btn icon3">Public<br>Presentation</a>
-  <a href="/03-MSDS-Courses/DS43/" class="btn icon4">Capstone<br>Project</a>
+  <a href="/04-MSCS-Courses/CS22/" class="btn cour1">OOAD<br>Concepts</a>
+  <a href="/04-MSCS-Courses/CS23/" class="btn cour2">OOAD<br>Principles</a>
+  <a href="/04-MSCS-Courses/CS24/" class="btn cour3">OOAD<br>Architecture</a>
   </span>
 </div>
 
 <div>
-  <span class="btn spec1"><span class="btn spec2">Specialization 15 - Bayesian Stats</span>
+  <span class="btn spec1"><span class="btn spec2">Specialization 09 - Robotics & Webots</span>
   <br>
-  <a href="/03-MSDS-Courses/DS44/" class="btn cour1">Bayesian<br>Introduction</a>
-  <a href="" class="btn cour2">Bayesian<br>Applications</a>
-  <a href="" class="btn cour3">Bayesian<br>Models</a>
+  <a href="/04-MSCS-Courses/CS25/" class="btn cour1">Robotic<br>Behaviors</a>
+  <a href="/04-MSCS-Courses/CS26/" class="btn cour2">Robotic<br>Mapping</a>
+  <a href="/04-MSCS-Courses/CS27/" class="btn cour3">Robotic<br>Planning</a>
+  </span>
+  <span class="btn spec1"><span class="btn spec2">Specialization 10 - HC Interaction</span>
+  <br>
+  <a href="/04-MSCS-Courses/CS28/" class="btn cour1">HCI<br>Interfaces</a>
+  <a href="/04-MSCS-Courses/CS29/" class="btn cour2">HCI<br>Testing</a>
+  <a href="/04-MSCS-Courses/CS30/" class="btn cour3">HCI<br>Topics</a>
+  </span>
+</div>
+
+<div>
+  <span class="btn spec1"><span class="btn spec2">Specialization 11 - Linux System</span>
+  <br>
+  <a href="/04-MSCS-Courses/CS31/" class="btn cour1">Linux<br>Command</a>
+  <a href="/04-MSCS-Courses/CS32/" class="btn cour2">Linux<br>Maintainance</a>
+  <a href="/04-MSCS-Courses/CS33/" class="btn cour3">Linux<br>Security</a>
+  </span>
+  <span class="btn spec1"><span class="btn spec2">Specialization 12 - Security & Hacking</span>
+  <br>
+  <a href="/04-MSCS-Courses/CS34/" class="btn cour1">Network<br>Attacking</a>
+  <a href="/04-MSCS-Courses/CS35/" class="btn cour2">Unix<br>Attacking</a>
+  <a href="/04-MSCS-Courses/CS36/" class="btn cour3">Web<br>Attacking</a>
+  </span>
+</div>
+
+<div>
+  <span class="btn spec1"><span class="btn spec2">Specialization 13 - Big Data & NoSQL</span>
+  <br>
+  <a href="//" class="btn cour1">C1<br>_</a>
+  <a href="//" class="btn cour1">C2<br>_</a>
+  <a href="//" class="btn cour1">C3<br>_</a>
   </span>
   <span class="btn spec1"><span class="btn spec2">Specialization</span>
   <br>
-  <a href="" class="btn icon1">C1<br>_</a>
-  <a href="" class="btn icon2">C2<br>_</a>
-  <a href="" class="btn icon3">C3<br>_</a>
-  <a href="" class="btn icon4">C4<br>_</a>
+  <a href="//" class="btn cour1">C1<br>_</a>
+  <a href="//" class="btn cour1">C2<br>_</a>
+  <a href="//" class="btn cour1">C3<br>_</a>
   </span>
 </div>
 
