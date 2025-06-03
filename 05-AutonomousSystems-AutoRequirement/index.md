@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 05 - Autonomous Systems - Autonomous Requirement
+title: 05 - Autonomous Systems - Auto Requirement
 permalink: /CS05/
 ---
 

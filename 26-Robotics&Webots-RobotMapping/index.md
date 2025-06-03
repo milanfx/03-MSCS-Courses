@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 25 - Robotics & Webots - Robotic Behaviors
-permalink: /CS25/
+title: 26 - Robotics & Webots - Robot Mapping 
+permalink: /CS26/
 ---
 
 <h3>Study Notes</h3>

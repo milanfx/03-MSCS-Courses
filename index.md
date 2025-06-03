@@ -17,9 +17,9 @@ xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx
   </span>
   <span class="btn spec1"><span class="btn spec2">Specialization 02 - Autonomous Systems</span>
   <br>
-  <a href="/04-MSCS-Courses/CS04/" class="btn cour1">Autonomous<br>Modeling</a>
-  <a href="/04-MSCS-Courses/CS05/" class="btn cour2">Autonomous<br>Requirement</a>
-  <a href="/04-MSCS-Courses/CS06/" class="btn cour2">Autonomous<br>Verification</a>
+  <a href="/04-MSCS-Courses/CS04/" class="btn cour1">Auto<br>Modeling</a>
+  <a href="/04-MSCS-Courses/CS05/" class="btn cour2">Auto<br>Requirement</a>
+  <a href="/04-MSCS-Courses/CS06/" class="btn cour2">Auto<br>Verification</a>
   </span>
 </div>
 
@@ -71,9 +71,9 @@ xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx
 <div>
   <span class="btn spec1"><span class="btn spec2">Specialization 09 - Robotics & Webots</span>
   <br>
-  <a href="/04-MSCS-Courses/CS25/" class="btn cour1">Robotic<br>Behaviors</a>
-  <a href="/04-MSCS-Courses/CS26/" class="btn cour2">Robotic<br>Mapping</a>
-  <a href="/04-MSCS-Courses/CS27/" class="btn cour3">Robotic<br>Planning</a>
+  <a href="/04-MSCS-Courses/CS25/" class="btn cour1">Robot<br>Behaviors</a>
+  <a href="/04-MSCS-Courses/CS26/" class="btn cour2">Robot<br>Mapping</a>
+  <a href="/04-MSCS-Courses/CS27/" class="btn cour3">Robot<br>Planning</a>
   </span>
   <span class="btn spec1"><span class="btn spec2">Specialization 10 - HC Interaction</span>
   <br>

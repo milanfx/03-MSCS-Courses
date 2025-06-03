@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 27 - Robotics & Webots - Robotic Planning
-permalink: /CS27/
+title: 25 - Robotics & Webots - Robot Behaviors
+permalink: /CS25/
 ---
 
 <h3>Study Notes</h3>

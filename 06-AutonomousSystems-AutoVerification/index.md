@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 06 - Autonomous Systems - Autonomous Verification
+title: 06 - Autonomous Systems - Auto Verification
 permalink: /CS06/
 ---
 

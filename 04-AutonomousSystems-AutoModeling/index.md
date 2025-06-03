@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 04 - Autonomous Systems - Autonomous Modeling
+title: 04 - Autonomous Systems - Auto Modeling
 permalink: /CS04/
 ---
 

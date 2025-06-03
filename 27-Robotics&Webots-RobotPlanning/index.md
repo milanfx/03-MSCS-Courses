@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 26 - Robotics & Webots - Robotic Mapping 
-permalink: /CS26/
+title: 27 - Robotics & Webots - Robot Planning
+permalink: /CS27/
 ---
 
 <h3>Study Notes</h3>
