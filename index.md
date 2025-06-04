@@ -102,14 +102,14 @@ xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx
   <span class="btn spec1"><span class="btn spec2">Specialization 13 - Big Data & NoSQL</span>
   <br>
   <a href="//" class="btn cour1">C1<br>_</a>
-  <a href="//" class="btn cour1">C2<br>_</a>
-  <a href="//" class="btn cour1">C3<br>_</a>
+  <a href="//" class="btn cour2">C2<br>_</a>
+  <a href="//" class="btn cour3">C3<br>_</a>
   </span>
   <span class="btn spec1"><span class="btn spec2">Specialization</span>
   <br>
   <a href="//" class="btn cour1">C1<br>_</a>
-  <a href="//" class="btn cour1">C2<br>_</a>
-  <a href="//" class="btn cour1">C3<br>_</a>
+  <a href="//" class="btn cour2">C2<br>_</a>
+  <a href="//" class="btn cour3">C3<br>_</a>
   </span>
 </div>
 
