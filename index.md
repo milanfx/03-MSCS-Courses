@@ -4,23 +4,23 @@ title: MSCS Courses
 permalink: /
 ---
 
-<h3>Study Notes</h3>
-
-xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx
-
-<div>
-  <span class="btn spec1"><span class="btn spec2">Specialization 01 - Network Systems</span>
-  <br>
-  <a href="/04-MSCS-Courses/MSCS01/" class="btn cour1">Network<br>Foundations</a>
-  <a href="/04-MSCS-Courses/MSCS02/" class="btn cour2">Linux<br>Networking</a>
-  <a href="/04-MSCS-Courses/MSCS03/" class="btn cour3">Cloud<br>Networking</a>
-  </span>
-  <span class="btn spec1"><span class="btn spec2">Specialization 02 - Autonomous Systems</span>
-  <br>
-  <a href="/04-MSCS-Courses/MSCS04/" class="btn cour1">Auto<br>Modeling</a>
-  <a href="/04-MSCS-Courses/MSCS05/" class="btn cour2">Auto<br>Requirement</a>
-  <a href="/04-MSCS-Courses/MSCS06/" class="btn cour2">Auto<br>Verification</a>
-  </span>
+<div class="block" style="grid-template-columns: 1fr 1fr;">
+  <div class="btn text">
+    <div class="btn name">Specialization 01 - Network Systems</div>
+    <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
+      <a href="/04-MSCS-Courses/MSCS01/" class="btn box1">Network<br>Foundations</a>
+      <a href="/04-MSCS-Courses/MSCS02/" class="btn box2">Linux<br>Networking</a>
+      <a href="/04-MSCS-Courses/MSCS03/" class="btn box3">Cloud<br>Networking</a>
+    </div>
+  </div>
+  <div class="btn text">
+    <div class="btn name">Specialization 02 - Autonomous Systems</div>
+    <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
+      <a href="/04-MSCS-Courses/MSCS04/" class="btn box1">Auto<br>Modeling</a>
+      <a href="/04-MSCS-Courses/MSCS05/" class="btn box2">Auto<br>Requirement</a>
+      <a href="/04-MSCS-Courses/MSCS06/" class="btn box3">Auto<br>Verification</a>
+    </div>
+  </div>
 </div>
 
 <div>
