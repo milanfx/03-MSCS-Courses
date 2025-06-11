@@ -133,7 +133,6 @@ permalink: /
       <a href="/#/" class="btn box1">C1<br>_</a>
       <a href="/#/" class="btn box2">C2<br>_</a>
       <a href="/#/" class="btn box3">C3<br>_</a>
-  </span>
+    </div>
+  </div>
 </div>
-
-<h3>Milanfx</h3>
