@@ -6,7 +6,7 @@ permalink: /
 
 <div class="block" style="grid-template-columns: 1fr 1fr;">
   <div class="btn text">
-    <div class="btn name">Specialization 01 - Network Systems</div>
+    <div class="btn name">01 - Network Systems</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
       <a href="/02-MSCS/MSCS01/" class="btn box1">Network<br>Foundations</a>
       <a href="/02-MSCS/MSCS02/" class="btn box1">Linux<br>Networking</a>
@@ -14,7 +14,7 @@ permalink: /
     </div>
   </div>
   <div class="btn text">
-    <div class="btn name">Specialization 02 - Autonomous Systems</div>
+    <div class="btn name">02 - Autonomous Systems</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
       <a href="/02-MSCS/MSCS04/" class="btn box2">Auto<br>Modeling</a>
       <a href="/02-MSCS/MSCS05/" class="btn box2">Auto<br>Requirement</a>
@@ -25,7 +25,7 @@ permalink: /
 
 <div class="block" style="grid-template-columns: 1fr 1fr;">
   <div class="btn text">
-    <div class="btn name">Specialization 03 - Computing Ethics</div>
+    <div class="btn name">03 - Computing Ethics</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
       <a href="/02-MSCS/MSCS07/" class="btn box2">Computing<br>Ethics</a>
       <a href="/02-MSCS/MSCS08/" class="btn box2">Professional<br>Ethics</a>
@@ -33,7 +33,7 @@ permalink: /
     </div>
   </div>
   <div class="btn text">
-    <div class="btn name">Specialization 04 - Internet Policy</div>
+    <div class="btn name">04 - Internet Policy</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
       <a href="/02-MSCS/MSCS10/" class="btn box1">Internet<br>Regulation</a>
       <a href="/02-MSCS/MSCS11/" class="btn box1">Internet<br>Privacy</a>
@@ -44,7 +44,7 @@ permalink: /
 
 <div class="block" style="grid-template-columns: 1fr 1fr;">
   <div class="btn text">
-    <div class="btn name">Specialization 05 - Natural Language</div>
+    <div class="btn name">05 - Natural Language</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
       <a href="/02-MSCS/MSCS13/" class="btn box1">NLP<br>Fundamentals</a>
       <a href="/02-MSCS/MSCS14/" class="btn box1">NLP<br>DeepLearning</a>
@@ -52,7 +52,7 @@ permalink: /
     </div>
   </div>
   <div class="btn text">
-    <div class="btn name">Specialization 06 - Computer Vision</div>
+    <div class="btn name">06 - Computer Vision</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
       <a href="/02-MSCS/MSCS16/" class="btn box2">CV<br>Fundamentals</a>
       <a href="/02-MSCS/MSCS17/" class="btn box2">CV<br>DeepLearning</a>
@@ -63,7 +63,7 @@ permalink: /
 
 <div class="block" style="grid-template-columns: 1fr 1fr;">
   <div class="btn text">
-    <div class="btn name">Specialization 07 - Generative AI</div>
+    <div class="btn name">07 - Generative AI</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
       <a href="/02-MSCS/MSCS19/" class="btn box2">GenAI<br>Fundamentals</a>
       <a href="/02-MSCS/MSCS20/" class="btn box2">GenAI<br>Applications</a>
@@ -71,7 +71,7 @@ permalink: /
     </div>
   </div>
   <div class="btn text">
-    <div class="btn name">Specialization 08 - Object Oriented</div>
+    <div class="btn name">08 - Object Oriented</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
       <a href="/02-MSCS/MSCS22/" class="btn box1">OOAD<br>Concepts</a>
       <a href="/02-MSCS/MSCS23/" class="btn box1">OOAD<br>Principles</a>
@@ -82,7 +82,7 @@ permalink: /
 
 <div class="block" style="grid-template-columns: 1fr 1fr;">
   <div class="btn text">
-    <div class="btn name">Specialization 09 - Robotics & Webots</div>
+    <div class="btn name">09 - Robotics & Webots</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
       <a href="/02-MSCS/MSCS25/" class="btn box1">Robot<br>Behaviors</a>
       <a href="/02-MSCS/MSCS26/" class="btn box1">Robot<br>Mapping</a>
@@ -90,7 +90,7 @@ permalink: /
     </div>
   </div>
   <div class="btn text">
-    <div class="btn name">Specialization 10 - HC Interaction</div>
+    <div class="btn name">10 - HC Interaction</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
       <a href="/02-MSCS/MSCS28/" class="btn box2">HCI<br>Interfaces</a>
       <a href="/02-MSCS/MSCS29/" class="btn box2">HCI<br>Testing</a>
@@ -101,7 +101,7 @@ permalink: /
 
 <div class="block" style="grid-template-columns: 1fr 1fr;">
   <div class="btn text">
-    <div class="btn name">Specialization 11 - Linux System</div>
+    <div class="btn name">11 - Linux System</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
       <a href="/02-MSCS/MSCS31/" class="btn box2">Linux<br>Command</a>
       <a href="/02-MSCS/MSCS32/" class="btn box2">Linux<br>Maintainance</a>
@@ -109,7 +109,7 @@ permalink: /
     </div>
   </div>
   <div class="btn text">
-    <div class="btn name">Specialization 12 - Security & Hacking</div>
+    <div class="btn name">12 - Security & Hacking</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
       <a href="/02-MSCS/MSCS34/" class="btn box1">Network<br>Attacking</a>
       <a href="/02-MSCS/MSCS35/" class="btn box1">Unix<br>Attacking</a>
@@ -120,7 +120,7 @@ permalink: /
 
 <div class="block" style="grid-template-columns: 1fr 1fr;">
   <div class="btn text">
-    <div class="btn name">Specialization 13</div>
+    <div class="btn name">13</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
       <a href="/#/" class="btn box1">C1<br>_</a>
       <a href="/#/" class="btn box1">C2<br>_</a>
@@ -128,7 +128,7 @@ permalink: /
     </div>
   </div>
   <div class="btn text">
-    <div class="btn name">Specialization 14</div>
+    <div class="btn name">14</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
       <a href="/#/" class="btn box2">C1<br>_</a>
       <a href="/#/" class="btn box2">C2<br>_</a>
